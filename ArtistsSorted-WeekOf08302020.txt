@@ -1,0 +1,268 @@
+1 Artist Name: 24kGoldn, Position: 4, Track Name: "Mood (feat. Iann Dior)", Streams: 4466643, URL: https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+
+2 Artist Name: 6ix9ine, Position: 139, Track Name: GOOBA, Streams: 800693, URL: https://open.spotify.com/track/4NhDYoQTYCdWHTvlbGVgwo
+
+3 Artist Name: Alex Rose, Position: 156, Track Name: Jangueo, Streams: 757589, URL: https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR
+
+4 Artist Name: Anuel AA, Position: 175, Track Name: Reggaetonera, Streams: 711568, URL: https://open.spotify.com/track/6yVkakCN460KOVol9ZazjH
+
+5 Artist Name: Ariana Grande, Position: 136, Track Name: "7 rings", Streams: 807306, URL: https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF
+
+6 Artist Name: Arizona Zervas, Position: 91, Track Name: ROXANNE, Streams: 1051862, URL: https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+
+7 Artist Name: Ava Max, Position: 48, Track Name: "Kings & Queens", Streams: 1550642, URL: https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn
+
+8 Artist Name: Aya Nakamura, Position: 38, Track Name: "Djadja (feat. Maluma) - Remix", Streams: 1751845, URL: https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt
+
+9 Artist Name: BANNERS, Position: 194, Track Name: "Someone To You", Streams: 667873, URL: https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr
+
+10 Artist Name: BENEE, Position: 100, Track Name: Supalonely, Streams: 997753, URL: https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw
+
+11 Artist Name: BLACKPINK, Position: 32, Track Name: "How You Like That", Streams: 1854489, URL: https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3
+
+12 Artist Name: BTS, Position: 170, Track Name: "Boy With Luv (feat. Halsey)", Streams: 718088, URL: https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c
+
+13 Artist Name: Bad Bunny, Position: 106, Track Name: Safaera, Streams: 947737, URL: https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y
+
+14 Artist Name: Billie Eilish, Position: 169, Track Name: "when the party's over", Streams: 720933, URL: https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I
+
+15 Artist Name: Black Eyed Peas, Position: 158, Track Name: "RITMO (Bad Boys For Life)", Streams: 756411, URL: https://open.spotify.com/track/4NCsrTzgVfsDo8nWyP8PPc
+
+16 Artist Name: Blackbear, Position: 125, Track Name: "hot girl bummer", Streams: 843277, URL: https://open.spotify.com/track/2mt1IqcFyY1zmYZT8Q3xw9
+
+17 Artist Name: BØRNS, Position: 71, Track Name: "Electric Love", Streams: 1193077, URL: https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ
+
+18 Artist Name: Calvin Harris, Position: 22, Track Name: "Over Now (with The Weeknd)", Streams: 2271275, URL: https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR
+
+19 Artist Name: Camilo, Position: 131, Track Name: "El Mismo Aire - con Pablo Alborán", Streams: 817767, URL: https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS
+
+20 Artist Name: Cardi B, Position: 1, Track Name: "WAP (feat. Megan Thee Stallion)", Streams: 6924489, URL: https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
+
+21 Artist Name: Chris Brown, Position: 164, Track Name: "No Guidance (feat. Drake)", Streams: 731009, URL: https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX
+
+22 Artist Name: Conan Gray, Position: 24, Track Name: Heather, Streams: 2223210, URL: https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA
+
+23 Artist Name: Conkarah, Position: 153, Track Name: "Banana (feat. Shaggy) - DJ FLe - Minisiren Remix", Streams: 766034, URL: https://open.spotify.com/track/0dZpw3h6KZhcHec61qwevZ
+
+24 Artist Name: Cordae, Position: 173, Track Name: "Gifted (feat. Roddy Ricch)", Streams: 714178, URL: https://open.spotify.com/track/0mb3uDw5vfFUcZfJYFOMRu
+
+25 Artist Name: Curtis Waters, Position: 89, Track Name: "Stunnin' (feat. Harm Franklin)", Streams: 1065184, URL: https://open.spotify.com/track/2D0dj3hVkRQJCp63cxCPEx
+
+26 Artist Name: DJ Khaled, Position: 80, Track Name: "POPSTAR (feat. Drake)", Streams: 1144168, URL: https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq
+
+27 Artist Name: DaBaby, Position: 8, Track Name: "ROCKSTAR (feat. Roddy Ricch)", Streams: 3889619, URL: https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4
+
+28 Artist Name: Dalex, Position: 177, Track Name: +Linda, Streams: 710428, URL: https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0
+
+29 Artist Name: Doja Cat, Position: 171, Track Name: "Boss Bitch", Streams: 717995, URL: https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k
+
+30 Artist Name: Don Toliver, Position: 120, Track Name: "After Party", Streams: 868495, URL: https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da
+
+31 Artist Name: Drake, Position: 146, Track Name: "Chicago Freestyle (feat. Giveon)", Streams: 780171, URL: https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B
+
+32 Artist Name: Dua Lipa, Position: 159, Track Name: Physical, Streams: 755267, URL: https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW
+
+33 Artist Name: Ed Sheeran, Position: 155, Track Name: "Beautiful People (feat. Khalid)", Streams: 759175, URL: https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv
+
+34 Artist Name: Eminem, Position: 126, Track Name: "Godzilla (feat. Juice WRLD)", Streams: 836480, URL: https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ
+
+35 Artist Name: Feid, Position: 188, Track Name: PORFA, Streams: 681693, URL: https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW
+
+36 Artist Name: Future, Position: 96, Track Name: "Life Is Good (feat. Drake)", Streams: 1027056, URL: https://open.spotify.com/track/1K5KBOgreBi5fkEHvg5ap3
+
+37 Artist Name: Gunna, Position: 152, Track Name: "DOLLAZ ON MY HEAD (feat. Young Thug)", Streams: 766559, URL: https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG
+
+38 Artist Name: Halsey, Position: 189, Track Name: "Without Me", Streams: 676821, URL: https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ
+
+39 Artist Name: Harry Nach, Position: 109, Track Name: "Tak Tiki Tak", Streams: 937446, URL: https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM
+
+40 Artist Name: Harry Styles, Position: 121, Track Name: Falling, Streams: 866811, URL: https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp
+
+41 Artist Name: Headie One, Position: 186, Track Name: "Ain't It Different (feat. AJ Tracey & Stormzy)", Streams: 690407, URL: https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8
+
+42 Artist Name: ITZY, Position: 115, Track Name: "Not Shy", Streams: 907521, URL: https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU
+
+43 Artist Name: Imagine Dragons, Position: 104, Track Name: Believer, Streams: 953718, URL: https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP
+
+44 Artist Name: Internet Money, Position: 62, Track Name: "Blastoff (feat. Juice Wrld & Trippie Redd)", Streams: 1270300, URL: https://open.spotify.com/track/2rFsFjq0D9JAmc0APpCO6P
+
+45 Artist Name: Ir Sais, Position: 184, Track Name: "Dream Girl - Remix", Streams: 692113, URL: https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX
+
+46 Artist Name: J Balvin, Position: 101, Track Name: Rojo, Streams: 980393, URL: https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi
+
+47 Artist Name: JACKBOYS, Position: 190, Track Name: "OUT WEST (feat. Young Thug)", Streams: 676755, URL: https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw
+
+48 Artist Name: JP Saxe, Position: 117, Track Name: "If the World Was Ending - feat. Julia Michaels", Streams: 883253, URL: https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ
+
+49 Artist Name: Jack Harlow, Position: 135, Track Name: "WHATS POPPIN", Streams: 808422, URL: https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM
+
+50 Artist Name: James Arthur, Position: 151, Track Name: "Say You Won't Let Go", Streams: 768108, URL: https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh
+
+51 Artist Name: Jason Derulo, Position: 55, Track Name: "Take You Dancing", Streams: 1361267, URL: https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3
+
+52 Artist Name: Jawsh 685, Position: 5, Track Name: "Savage Love (Laxed - Siren Beat)", Streams: 4255628, URL: https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c
+
+53 Artist Name: Jay Wheeler, Position: 19, Track Name: "La Curiosidad", Streams: 2379352, URL: https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz
+
+54 Artist Name: Jerry Di, Position: 61, Track Name: "Mi Cuarto", Streams: 1281898, URL: https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ
+
+55 Artist Name: Jhay Cortez, Position: 122, Track Name: "CÓMO SE SIENTE - Remix", Streams: 866300, URL: https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC
+
+56 Artist Name: Joel Corry, Position: 16, Track Name: "Head & Heart (feat. MNEK)", Streams: 2510869, URL: https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9
+
+57 Artist Name: John Legend, Position: 178, Track Name: "All of Me", Streams: 709456, URL: https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a
+
+58 Artist Name: Jonas Esticado, Position: 116, Track Name: "Investe Em Mim", Streams: 887426, URL: https://open.spotify.com/track/15k1TDabqSEmyXOwMq9RM7
+
+59 Artist Name: Journey, Position: 179, Track Name: "Don't Stop Believin'", Streams: 705497, URL: https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue
+
+60 Artist Name: Jowell & Randy, Position: 172, Track Name: Anaranjado, Streams: 717765, URL: https://open.spotify.com/track/0cRgJuB6TRtb5RZ2HkjSLh
+
+61 Artist Name: Juice WRLD, Position: 154, Track Name: Conversations, Streams: 765684, URL: https://open.spotify.com/track/4K06PO78fW4mnBVenxGNob
+
+62 Artist Name: Jul, Position: 114, Track Name: "Bande organisée", Streams: 912224, URL: https://open.spotify.com/track/205HNJ73cgpC0LAOnuQiWT
+
+63 Artist Name: Justin Bieber, Position: 72, Track Name: "Intentions (feat. Quavo)", Streams: 1192606, URL: https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV
+
+64 Artist Name: Justin Quiles, Position: 182, Track Name: PAM, Streams: 696577, URL: https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn
+
+65 Artist Name: K/DA, Position: 65, Track Name: "THE BADDEST", Streams: 1223129, URL: https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f
+
+66 Artist Name: KAROL G, Position: 56, Track Name: Tusa, Streams: 1358179, URL: https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY
+
+67 Artist Name: KHEA, Position: 50, Track Name: "Ayer Me Llamó Mi Ex (feat. Lenny Santos)", Streams: 1518282, URL: https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9
+
+68 Artist Name: Kane Brown, Position: 103, Track Name: "Be Like That - feat. Swae Lee & Khalid", Streams: 955292, URL: https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ
+
+69 Artist Name: Katy Perry, Position: 191, Track Name: Daisies, Streams: 676522, URL: https://open.spotify.com/track/367wyLNqQMr5e8S2E6Zvpp
+
+70 Artist Name: Kendrick Lamar, Position: 150, Track Name: "Money Trees", Streams: 771366, URL: https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4
+
+71 Artist Name: KitschKrieg, Position: 174, Track Name: Unterwegs, Streams: 713919, URL: https://open.spotify.com/track/7mrWTjhYctgEQb0lJKrVWy
+
+72 Artist Name: Kygo, Position: 147, Track Name: "What's Love Got to Do with It", Streams: 776339, URL: https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW
+
+73 Artist Name: Labrinth, Position: 59, Track Name: "Still Don't Know My Name", Streams: 1298449, URL: https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV
+
+74 Artist Name: Lady Gaga, Position: 93, Track Name: Shallow, Streams: 1042300, URL: https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B
+
+75 Artist Name: Lewis Capaldi, Position: 41, Track Name: "Before You Go", Streams: 1734340, URL: https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP
+
+76 Artist Name: Lil Baby, Position: 160, Track Name: "We Paid (feat. 42 Dugg)", Streams: 736727, URL: https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp
+
+77 Artist Name: Lil Mosey, Position: 44, Track Name: "Blueberry Faygo", Streams: 1682006, URL: https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+
+78 Artist Name: MEDUZA, Position: 137, Track Name: "Lose Control", Streams: 803369, URL: https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK
+
+79 Artist Name: Machine Gun Kelly, Position: 97, Track Name: "my ex's best friend (with blackbear)", Streams: 1020062, URL: https://open.spotify.com/track/70rFIfYN7lU6iTgUIVP42w
+
+80 Artist Name: Maluma, Position: 163, Track Name: Madrid, Streams: 731567, URL: https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H
+
+81 Artist Name: Manuel Turizo, Position: 157, Track Name: "Quiéreme Mientras Se Pueda", Streams: 756936, URL: https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M
+
+82 Artist Name: Maroon 5, Position: 129, Track Name: "Nobody's Love", Streams: 820354, URL: https://open.spotify.com/track/3kwgqoBqTwoAH4nT29TYrq
+
+83 Artist Name: Marshmello, Position: 167, Track Name: Happier, Streams: 724941, URL: https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99
+
+84 Artist Name: Mc Zaac, Position: 134, Track Name: "Desce Pro Play (PA PA PA)", Streams: 810437, URL: https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ
+
+85 Artist Name: Megan Thee Stallion, Position: 130, Track Name: "Savage Remix (feat. Beyoncé)", Streams: 819533, URL: https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac
+
+86 Artist Name: Melanie Martinez, Position: 124, Track Name: "Play Date", Streams: 847950, URL: https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA
+
+87 Artist Name: Miley Cyrus, Position: 176, Track Name: "When I Look At You", Streams: 711041, URL: https://open.spotify.com/track/6ZfXA2xakAvphXOSOJ3u1W
+
+88 Artist Name: Morgan Wallen, Position: 161, Track Name: "7 Summers", Streams: 736310, URL: https://open.spotify.com/track/0Z0kNthq0sS4lvGz9SSlBF
+
+89 Artist Name: Nea, Position: 108, Track Name: "Some Say - Felix Jaehn Remix", Streams: 940298, URL: https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv
+
+90 Artist Name: Niack, Position: 78, Track Name: "Oh Juliana", Streams: 1155046, URL: https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt
+
+91 Artist Name: Nio Garcia, Position: 18, Track Name: "La Jeepeta - Remix", Streams: 2385607, URL: https://open.spotify.com/track/6bvfJf4KjonPMuPfGfy3S2
+
+92 Artist Name: Oasis, Position: 199, Track Name: "Wonderwall - Remastered", Streams: 662487, URL: https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa
+
+93 Artist Name: Ozuna, Position: 111, Track Name: "Caramelo - Remix", Streams: 928609, URL: https://open.spotify.com/track/2uu2aGqA2UblCg581Q7l1g
+
+94 Artist Name: Passenger, Position: 193, Track Name: "Let Her Go", Streams: 673181, URL: https://open.spotify.com/track/2jyjhRf6DVbMPU5zxagN2h
+
+95 Artist Name: Peach Tree Rascals, Position: 198, Track Name: Mariposa, Streams: 663806, URL: https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD
+
+96 Artist Name: Piso 21, Position: 180, Track Name: "Pa' Olvidarme De Ella", Streams: 704748, URL: https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh
+
+97 Artist Name: Polo G, Position: 168, Track Name: 21, Streams: 720971, URL: https://open.spotify.com/track/3JKgcAa7r07ocVWcV8bS0H
+
+98 Artist Name: Pop Smoke, Position: 107, Track Name: "Got It On Me", Streams: 946328, URL: https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1
+
+99 Artist Name: Post Malone, Position: 142, Track Name: "rockstar (feat. 21 Savage)", Streams: 797284, URL: https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt
+
+100 Artist Name: Powfu, Position: 29, Track Name: "death bed (coffee for your head)", Streams: 1923130, URL: https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx
+
+101 Artist Name: Queen, Position: 181, Track Name: "Don't Stop Me Now - 2011 Mix", Streams: 699634, URL: https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7
+
+102 Artist Name: ROSALÍA, Position: 67, Track Name: "TKN (feat. Travis Scott)", Streams: 1210753, URL: https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7
+
+103 Artist Name: Rauw Alejandro, Position: 90, Track Name: "Elegí (feat. Dímelo Flow)", Streams: 1062677, URL: https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau
+
+104 Artist Name: Regard, Position: 87, Track Name: Secrets, Streams: 1078054, URL: https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg
+
+105 Artist Name: Robin Schulz, Position: 144, Track Name: Alane, Streams: 792924, URL: https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI
+
+106 Artist Name: Rod Wave, Position: 183, Track Name: "Rags2Riches 2 (feat. Lil Baby)", Streams: 693024, URL: https://open.spotify.com/track/0qJeyYAgv6UpvewUxRXAhb
+
+107 Artist Name: Roddy Ricch, Position: 54, Track Name: "The Box", Streams: 1386267, URL: https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+
+108 Artist Name: SAINt JHN, Position: 11, Track Name: "Roses - Imanbek Remix", Streams: 2804811, URL: https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5
+
+109 Artist Name: Saweetie, Position: 118, Track Name: "Tap In", Streams: 874565, URL: https://open.spotify.com/track/4Hpib09wXgD84w4uwTPnYD
+
+110 Artist Name: Sech, Position: 27, Track Name: Relación, Streams: 2101346, URL: https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ
+
+111 Artist Name: Shawn Mendes, Position: 63, Track Name: Señorita, Streams: 1261055, URL: https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2
+
+112 Artist Name: StaySolidRocky, Position: 51, Track Name: "Party Girl", Streams: 1515754, URL: https://open.spotify.com/track/3IJYUaN3tx04S4TYyZHKoP
+
+113 Artist Name: Super Yei, Position: 73, Track Name: "Lean (feat. Towy Osquel Beltito & Sammy & Falsetto)", Streams: 1176110, URL: https://open.spotify.com/track/5DoLhdU27owX1NMrKLUbUl
+
+114 Artist Name: Surf Mesa, Position: 46, Track Name: "ily (i love you baby) (feat. Emilee)", Streams: 1668040, URL: https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS
+
+115 Artist Name: Surfaces, Position: 102, Track Name: "Sunday Best", Streams: 980040, URL: https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo
+
+116 Artist Name: THE SCOTTS, Position: 98, Track Name: "THE SCOTTS", Streams: 1009987, URL: https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk
+
+117 Artist Name: TOTO, Position: 200, Track Name: Africa, Streams: 662088, URL: https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX
+
+118 Artist Name: Tainy, Position: 26, Track Name: "Agua (with J Balvin) - Music From ""Sponge On The Run"" Movie", Streams: 2112893, URL: https://open.spotify.com/track/1pqnQ41XbfKjaFu6M0eGJp
+
+119 Artist Name: Tame Impala, Position: 187, Track Name: "The Less I Know The Better", Streams: 683927, URL: https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ
+
+120 Artist Name: Tate McRae, Position: 45, Track Name: "you broke me first", Streams: 1674840, URL: https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR
+
+121 Artist Name: Taylor Swift, Position: 162, Track Name: "the 1", Streams: 735484, URL: https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8
+
+122 Artist Name: The Chainsmokers, Position: 185, Track Name: "Something Just Like This", Streams: 691746, URL: https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW
+
+123 Artist Name: The Kid LAROI, Position: 166, Track Name: "GO (feat. Juice WRLD)", Streams: 726534, URL: https://open.spotify.com/track/2rPHUAeUPbNgTmK18FPTiZ
+
+124 Artist Name: The Killers, Position: 196, Track Name: "Mr. Brightside", Streams: 667036, URL: https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B
+
+125 Artist Name: The Police, Position: 197, Track Name: "Every Breath You Take", Streams: 665484, URL: https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1
+
+126 Artist Name: The Weeknd, Position: 81, Track Name: "In Your Eyes", Streams: 1121342, URL: https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl
+
+127 Artist Name: Tones And I, Position: 23, Track Name: "Dance Monkey", Streams: 2246382, URL: https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+
+128 Artist Name: Topic, Position: 13, Track Name: "Breaking Me", Streams: 2639275, URL: https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po
+
+129 Artist Name: Travis Scott, Position: 94, Track Name: "The Plan - From the Motion Picture ""TENET""", Streams: 1033740, URL: https://open.spotify.com/track/551xyaSJsg8hILXFq9JdST
+
+130 Artist Name: Trevor Daniel, Position: 69, Track Name: Falling, Streams: 1197423, URL: https://open.spotify.com/track/2rRJrJEo19S2J82BDsQ3F7
+
+131 Artist Name: Trueno, Position: 49, Track Name: "Mamichula - con Nicki Nicole", Streams: 1524987, URL: https://open.spotify.com/track/4pXW6ZAHBz7ODXTRKklWrM
+
+132 Artist Name: Ty Dolla $ign, Position: 195, Track Name: "Expensive (feat. Nicki Minaj)", Streams: 667153, URL: https://open.spotify.com/track/0IAkpYTRomExXOUJonNMTR
+
+133 Artist Name: Wallows, Position: 148, Track Name: "Are You Bored Yet? (feat. Clairo)", Streams: 773596, URL: https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm
+
+134 Artist Name: XXXTENTACION, Position: 192, Track Name: Moonlight, Streams: 674359, URL: https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL
+
